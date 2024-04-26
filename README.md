@@ -17,4 +17,4 @@ ASSIGNMENT-8: https://github.com/2203a51251/AIML_Batch_5/blob/main/Assignment8.i
 
 ASSIGNMENT-9: https://github.com/2203a51251/AIML_Batch_5/blob/main/Assignment9.ipynb
 
-ASSIGNMENT-10: 
+ASSIGNMENT-10: https://github.com/2203a51251/AIML_Batch_5/blob/main/Assignment10.ipynb
